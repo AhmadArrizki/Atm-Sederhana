@@ -1,7 +1,6 @@
 import java.util.ArrayList;
 import java.util.List;
 
-// Class untuk merepresentasikan riwayat transaksi
 public class TransactionHistory {
     private List<Transaction> transactions;
 

@@ -1,6 +1,5 @@
 import java.util.Date;
 
-// Class untuk merepresentasikan transaksi
 public class Transaction {
     private Date date;
     private double amount;

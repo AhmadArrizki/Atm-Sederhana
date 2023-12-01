@@ -1,7 +1,6 @@
 import java.util.List;
 import java.util.Scanner;
 
-// Class untuk merepresentasikan sistem ATM
 public class ATMSystem {
     private Bank bank;
     private Card currentCard;

@@ -1,7 +1,6 @@
 import java.util.ArrayList;
 import java.util.List;
 
-// Class untuk merepresentasikan bank
 public class Bank {
     private List<Account> accounts;
 
